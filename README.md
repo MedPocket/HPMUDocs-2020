@@ -4,9 +4,7 @@ HPMUDocs 2020 là dự án lưu trữ kiến thức Y học 2020 của MedPocket
 
 ## Đóng góp cho dự án
 
-- Long Nhật Nguyễn
-- Nguyễn Thị Thắm
-- Vũ Duy Ninh
+Long Nhật Nguyễn, Nguyễn Thị Thắm, Vũ Duy Ninh.
 
 ## Bản quyền
 
